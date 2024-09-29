@@ -316,6 +316,6 @@ section{
     
  }
 
- .htitle h1{
-    text-align: center;
+ .contact .htitle{
+    align-items: center;
  }
